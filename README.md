@@ -1,2 +1,1 @@
-# PizzaCreator
-A Builder design pattern pizza creator.
+# PizzaCreator-console

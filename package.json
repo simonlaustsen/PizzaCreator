@@ -1,0 +1,11 @@
+{
+  "name": "PizzaCreator-console",
+  "packageManager": "yarn@4.0.0-rc.48",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  }
+}
